@@ -35,13 +35,12 @@ Items to grade:
 2. Back-tracking solver (the "solve" function in solve.cpp)
 3. Alternating projection solver (the "DR" function in altproj.cpp)
 
-## Project Contributions ##
+## Project Implementation ##
 
-1. Yuva:
-    * implemented two Sudoku solvers: backtracking and alternating projections
-    * implemented function to generate a Sudoku puzzle
-    * implements actual game-play and game-play logic (taking user input, printing/formatting to screen etc.)
-    * implemented comamnd line flags and associated functions(ie. unit testing / timing functions)
+1. implemented two Sudoku solvers: backtracking and alternating projections
+2. implemented function to generate a Sudoku puzzle
+3. implements actual game-play and game-play logic (taking user input, printing/formatting to screen etc.)
+4. implemented comamnd line flags and associated functions(ie. unit testing / timing functions)
 
 ## Notes on Building Project ##
 
