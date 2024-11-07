@@ -37,11 +37,9 @@ Items to grade:
 
 ## Project Contributions ##
 
-1. Matt:
+1. Yuva:
     * implemented two Sudoku solvers: backtracking and alternating projections
     * implemented function to generate a Sudoku puzzle
-
-2. Alex:
     * implements actual game-play and game-play logic (taking user input, printing/formatting to screen etc.)
     * implemented comamnd line flags and associated functions(ie. unit testing / timing functions)
 
